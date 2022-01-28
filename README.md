@@ -11,7 +11,7 @@ Discord : [Join]( https://discord.gg/mjUGTmTj)
 _G.DangerWeb = false
 _G.CustomScript = false
 _G.CanLoad = true
-loadstring(game:HttpGet('https://raw.githubusercontent.com/HadeIsScripter/MainScripts/main/MainScript.lua'),"YES")()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/HadeIsScripter/MainScripts/main/MainScript.lua'))()
 ```
 
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
