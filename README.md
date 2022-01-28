@@ -8,6 +8,8 @@ Discord : https://discord.gg/tcmWe8NkjE
 ```
 
 ```lua
-_G.FreeMode = true
+_G.DangerWeb = false
+_G.CustomScript = false
+_G.CanLoad = true
 loadstring(game:HttpGet('https://raw.githubusercontent.com/HadeIsScripter/MainScripts/main/MainScript.lua'),"YES")()
 ```
