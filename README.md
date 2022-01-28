@@ -1,5 +1,5 @@
 # Hade Web
-Discord : [Click me](http://www.google.com){: .btn}
+Discord : [Join]( https://discord.gg/mjUGTmTj)
 ```ini
 [!] : Join the Hade-Core Discord and get more stuffs!
 
