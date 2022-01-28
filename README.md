@@ -1,5 +1,5 @@
 # Hade Web
-Discord : https://discord.gg/tcmWe8NkjE
+Discord : https://discord.gg/mjUGTmTj
 ```ini
 [!] : Join the Hade-Core Discord and get more stuffs!
 
