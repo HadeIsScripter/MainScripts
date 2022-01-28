@@ -6,7 +6,16 @@ Discord : https://discord.gg/mjUGTmTj
 [1.0.0] : Added Hade Web Systems
 [1.0.2] (NOW) : Added Whitelist System
 ```
-<html> <head> <title>Button Test</title> <style> #test_btn1{ border-top-left-radius: 5px; border-bottom-left-radius: 5px; margin-right:-4px; } #test_btn2{ border-top-right-radius: 5px; border-bottom-right-radius: 5px; margin-left:-3px; } #btn_group button{ border: 1px solid skyblue; background-color: rgba(0,0,0,0); color: skyblue; padding: 5px; } #btn_group button:hover{ color:white; background-color: skyblue; } </style> </head> <body> <div id="btn_group"> <button id="test_btn1">테스트1</button> <button id="test_btn2">테스트2</button> </div> </body> </html>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
 ```lua
 _G.DangerWeb = false
 _G.CustomScript = false
