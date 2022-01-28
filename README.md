@@ -11,7 +11,7 @@ Discord : [Join]( https://discord.gg/mjUGTmTj)
 _G.DangerWeb = false
 _G.CustomScript = false
 _G.CanLoad = true
-_G.Link = "https://raw.githubusercontent.com/HadeIsScripter/MainScripts/main/MainScript.lua"
+_G.Link = "_G.https://raw.githubusercontent.com/HadeIsScripter/MainScripts/main/MainScript.lua"
 loadstring(game:HttpGet(Link))()
 ```
 
@@ -21,7 +21,9 @@ loadstring(game:HttpGet(Link))()
         <ul>
             <li>Now on VR-Port</li>
         </ul>
-        <!-- Other embed HTML element/text into SVG -->
+          <ul>
+            <li>Made by Hade_Cytus</li>
+        </ul>
     </div>
 </foreignObject>
 </svg>
