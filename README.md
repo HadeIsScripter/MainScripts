@@ -1,6 +1,8 @@
 # Hade Web
 Discord : [Join]( https://discord.gg/mjUGTmTj)
-
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=f326285d4a8b3">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+</a>
 ```ini
 [!] : Join the Hade-Core Discord and get more stuffs!
 
