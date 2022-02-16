@@ -1,3 +1,13 @@
+local function NoclipLoop()
+	if game.Players.LocalPlayer.Character ~= nil then
+		for _, child in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do	
+		    if child:IsA("BasePart") and child.CanCollide == true then
+			child.CanCollide = false
+     		end
+		end
+	end
+end
+Noclipping = game:GetService('RunService').Stepped:Connect(NoclipLoop)
 getgenv().options = {
     --Bodyslots or Default (Bodyslots is buggy and)
     Inventory = "Bodyslots" ,
